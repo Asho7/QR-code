@@ -51,5 +51,5 @@ I would like to learn responsive design properly, better my knowledge of CSS box
 
 ## Author
 
-- Website - [Ashley] (https://www.your-site.com)
+- Website - [Ashley] (https://asho7.github.io/QR-code/)
 - Frontend Mentor - [@Asho7] (https://www.frontendmentor.io/profile/Asho7)
