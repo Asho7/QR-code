@@ -1,0 +1,46 @@
+body {
+   width: 1440px;
+   background-color:hsl(212, 45%, 89%);
+}
+.img {
+    width: 100%;
+    border-radius: 5px;
+}
+        /* can't get it to work*/
+@font-face {
+    font-family: Outfit;
+    src: url(https://fonts.google.com/specimen/Outfit);
+}
+
+.text {
+    padding : 10px 10px 10px;
+    border: none;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    margin: 200px 600px;
+    font-family: "Outfit";
+    font-weight: 700, 400;
+    text-align: center;
+    font-size: 15px;
+    background-color: white;
+}
+
+.text-secondary {
+    color: hsl(216, 15%, 48%);
+}
+
+.attribution {
+    font-size: 11px;
+    text-align: center;
+}
+
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}
+/* tried to make website in responsive */
+@media only screen and (max-width: 375px) {
+  body {
+    width: 100%;
+    height: auto;
+  }
+}
