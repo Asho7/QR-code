@@ -13,8 +13,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Repository URL: [Add solution URL here](https://github.com/Asho7/QR-code)
+- Live Site URL: [Add live site URL here](https://asho7.github.io/QR-code/)
 
 ### Built with
 
@@ -47,9 +47,12 @@ I would like to learn responsive design properly, better my knowledge of CSS box
 ### Useful resources
 
 - [Epic web dev](https://www.epicweb.dev/tutorials/git-fundamentals) - This helped me learn Git and Github.
-- [W3 School](https://www.w3schools.com/) - I used it to help me with the CSS part.
+- [W3 Schools](https://www.w3schools.com/) - I used it to help me with the CSS part.
 
 ## Author
 
-- Website - [Ashley] (https://asho7.github.io/QR-code/)
 - Frontend Mentor - [@Asho7] (https://www.frontendmentor.io/profile/Asho7)
+
+# aknowledgments
+
+Thank you to Darkstar for helping me with deployment
