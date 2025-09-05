@@ -13,8 +13,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Repository URL: [Add solution URL here](https://github.com/Asho7/QR-code)
-- Live Site URL: [Add live site URL here](https://asho7.github.io/QR-code/)
+- Repository URL:(https://github.com/Asho7/QR-code)
+- Live Site URL: (https://asho7.github.io/QR-code/)
 
 ### Built with
 
